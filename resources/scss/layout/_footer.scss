@@ -1,0 +1,9 @@
+footer {
+    background-color: $color-4;
+
+    @include media-up($bp-L) {
+        background-color: $color-1;
+        height: 52px;
+        width: 100%;
+    }
+}

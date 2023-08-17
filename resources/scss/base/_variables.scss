@@ -1,0 +1,63 @@
+/* stylelint-disable */
+
+//Responsive
+$bp-MS: 375px;
+$bp-S: 480px;
+$bp-SM: 550px;
+$bp-M: 768px;
+$bp-ML: 834px;
+$bp-L: 992px;
+$bp-XL: 1200px;
+$bp-2XL: 1366px;
+$bp-3XL: 1440px;
+$bp-4XL: 1600px;
+$bp-5XL: 1920px;
+$bp-6XL: 2200px;
+
+//Colors
+$color-1: #cccccc;
+$color-2: #ffdd00;
+$color-3: #db2f2b;
+$color-4: #db302c;
+$color-5: #f7f7f7;
+$color-6: #ababab;
+$color-7: #f7f8f8;
+$color-8: #000000;
+$color-9: rgb(0 0 0 / 60%);
+$color-10: rgb(3 3 3 / 65%);;
+$color-11: #d4d4d4;
+$color-12: #d7d7d7;
+$color-13: #373737;
+$color-14: #ff2300;
+$color-15: #e1e1e1;
+$color-16: #f7f8f8;
+$color-20: rgb(0 0 0 / 5%);
+
+//Font Size
+$font-size: 16;
+
+//Fonts
+$font-mont-bold: 'Montserrat-Bold', sans-serif;
+$font-mont-extrabold: 'Montserrat-ExtraBold', sans-serif;
+$font-mont-med: 'Montserrat-Medium', sans-serif;
+$font-mont-reg: 'Montserrat-Regular', sans-serif;
+$font-mont-black: 'Montserrat-Black', sans-serif;
+$font-mont-thin: 'Montserrat-Thin', sans-serif;
+$font-base: 'OpenSans-Regular', sans-serif;
+$font-michroma: 'Michroma-Regular', sans-serif;
+// $font-base: 'Lato-Regular', sans-serif;
+$font-light: 'Lato-Light', sans-serif;
+$font-bold: 'Lato-Bold', sans-serif;
+$font-bolditalic: 'Lato-BoldItalic', sans-serif;
+$font-black: 'Lato-Black', sans-serif;
+$font-italic: 'Lato-Italic', sans-serif;
+
+//Transition
+$transition-linear: all 0.3s linear;
+$transition-ease: all 0.3s ease-in-out;
+$transition-fast: all 0.2s ease;
+
+//Animation
+$animation-duration: 800ms;
+$gradient-desktop: linear-gradient(to right, $color-1 0%, rgba(0, 0, 0, 0.5) 45%, rgba(0, 0, 0, 0.5) 55%, $color-1 100%);
+$gradient-mobile: linear-gradient(to right, $color-1 0%, rgba(0, 0, 0, 0) 45%, rgba(0, 0, 0, 0) 55%, $color-1 100%), linear-gradient(to top, $color-1 0%, rgba(0, 0, 0, 0) 100%);

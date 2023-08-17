@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="iryna.web-dev.team" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="iryna.web-dev.team">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/wp-content/themes/twentytwentyone-child" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+/*
+  Theme Name: Twentytwentyone Child Theme
+  Theme URI: http://iryna.web-dev.team/
+  Description: <strong>Twenty Twenty One Child Theme</strong>
+  Version: 1.0.2
+  Author: Iryna Berezhna
+  Template: twentytwentyone
+*/
+
+@import url("../twentytwentyone/style.css");
+@import url("./resources/scss/style.css");
